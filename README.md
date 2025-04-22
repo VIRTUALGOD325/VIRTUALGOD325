@@ -11,6 +11,11 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIRTUALGOD325&theme=dark&hide_border=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VIRTUALGOD325&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VIRTUALGOD325&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIRTUALGOD325/VIRTUALGOD325/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIRTUALGOD325/VIRTUALGOD325/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VIRTUALGOD325/VIRTUALGOD325/output/github-snake.svg" />
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VIRTUALGOD325&theme=radical&no-frame=false&no-bg=true&margin-w=4)
